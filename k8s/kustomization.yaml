@@ -7,4 +7,4 @@ kind: Kustomization
 images:
 - name: infyartifactory.jfrog.io/ccdsdam-ocp/vote-ui
   newName: infyartifactory.jfrog.io/ccdsdam-ocp/vote-ui
-  newTag: latest
+  newTag: "1.0"
